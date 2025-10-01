@@ -27,5 +27,3 @@ print(df.info())
 print('***************************')
 print(df.describe())
 '''
-
-feature_cols = ['sepal length (cm)','sepal width (cm)','petal length (cm)',]
