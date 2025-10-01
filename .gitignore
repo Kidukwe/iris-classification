@@ -1,0 +1,12 @@
+# macOS junk
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+iris_venv/
+
+# Data folder
+data/
+
