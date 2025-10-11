@@ -39,6 +39,7 @@ cd iris-classification
 
 ## Структура проекта 
 
+```bash
 Iris_Classification/
 ├── data/
 │   ├── iris_data.csv             # Исходный CSV с данными Iris
@@ -55,6 +56,7 @@ Iris_Classification/
 ├── Iris_Classification.code-workspace        # VSCode workspace
 ├── requirements.txt                          # Список зависимостей Python
 └── README.md
+```
 
 ---
 
