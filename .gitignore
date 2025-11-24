@@ -27,8 +27,9 @@ iris_venv/
 *.xls
 *.xlsx
 *.json
-data/
 
 # Logs
 *.log
 
+# Workspace
+.code-workspace
